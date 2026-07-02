@@ -6,7 +6,7 @@
 
 ## Inputs
 
-- **JSONblob** (number)
+- **JSONblob** (string)
 - **HullLengthInches** (number)
 
 
